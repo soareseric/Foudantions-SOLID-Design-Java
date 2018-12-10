@@ -1,8 +1,6 @@
-package br.com.solid.design.model;
+package br.com.solid.design.srp.coesao;
 
 import java.util.Calendar;
-
-import br.com.solid.design.enums.CargoEnum;
 
 public  class Funcionario {
 

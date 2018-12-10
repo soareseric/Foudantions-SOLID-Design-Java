@@ -1,8 +1,4 @@
-package br.com.solid.design.enums;
-
-import br.com.solid.design.impl.RegraDeCalculoImpl;
-import br.com.solid.design.services.DezOuVintePorcentoService;
-import br.com.solid.design.services.QuinzeOuVinteCincoPorcentoService;
+package br.com.solid.design.srp.coesao;
 
 public enum CargoEnum {
 	DESENVOLVEDOR(new DezOuVintePorcentoService()), DBA(new QuinzeOuVinteCincoPorcentoService()),

@@ -1,6 +1,4 @@
-package br.com.solid.design.impl;
-
-import br.com.solid.design.model.Funcionario;
+package br.com.solid.design.srp.coesao;
 
 public interface RegraDeCalculoImpl {
 

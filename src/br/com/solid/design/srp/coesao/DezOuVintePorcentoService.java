@@ -1,7 +1,4 @@
-package br.com.solid.design.services;
-
-import br.com.solid.design.impl.RegraDeCalculoImpl;
-import br.com.solid.design.model.Funcionario;
+package br.com.solid.design.srp.coesao;
 
 public class DezOuVintePorcentoService implements RegraDeCalculoImpl{
 
